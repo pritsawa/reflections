@@ -1,0 +1,31 @@
+What happens when you initialize a repository? Why do you need to do it?
+In 2010, Bell made her writing and directing début with the short film Worst Enemy, which starred Michaela Watkins, Matt Walsh and Lindsay Sloane. Her film débuted at the 2011 Sundance Film Festival[18] and has also played at the Nantucket Film Festiva
+
+How is the staging area different from the working directory and the repository?
+Gen Art Film Festival and Aspen Shortsfest, winning the Tony Cox Award for Screenwriting in a Short Film from Nantucket and receiving a Shorts Jury Special Mention from Dallas. Her film led to her being named one of the "2012 Inspiring Filmmakers" by LUNAFEST.[19]
+
+What value do you think it offers?
+In 2011, Bell starred alongside Josh Lucas and Terrence Howard in the supernatural thriller Little Murder, played Ashton Kutcher's boss in the romantic comedy No Strings Attached, a performance that won her critical praise and was called "scene-stealing,"[16]
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+In 2010, Bell made her writing and directing début with the short film Worst Enemy, which starred Michaela Watkins, Matt Walsh and Lindsay Sloane. Her film débuted at the 2011 Sundance Film Festival[18] and has also played at the Nantucket Film Festival, the Dallas International Film Festival, the Gen
+
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+Bell was 45th on Femme Fatales' list of the 50 Sexiest Women of 2003; came 6th on British Vogue's list of the 10 Best Dressed Women of 2007, was 32nd on Maxim's Hot 100 of 2008, was 44th on Maxim's Hot 100 of 2012 and 89th on AskMen's 99 Most Desirable Women of 
+
+
+How do the diagrams help you visualize the branch structure?
+Bell and Colin Farrell, her co-star in Pride and Glory, dated for a time.[6]
+
+
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+America. The couple became engaged on Bell's birthday in March 2012[39] and were married on June 1, 2013 at The Marigny Opera House in New Orleans, Louisiana.[40] In late October 2014, her representative confirmed that Bell had given birth to their daughter, Nova.[41] The two are expecting their second child in late spring/early summer 2017.[42]
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+ Harrod, Horatia (August 23, 2014). "Lake Bell: More than a sexy movie girl". The Telegraph. UK. Archived from the original on January 8, 2015. Retrieved September 15, 2014.

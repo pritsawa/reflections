@@ -1,0 +1,37 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Lake Siegel Bell[1] (born March 24, 1979)[2] is an American actress, director, and screenwriter.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    She has starred in the television series Boston Legal (2004–06), Surface (2005–06), How to Make It in America (2010–11) and Childrens Hospital (2008–2016) and in the films Over Her Dead Body (2008), What Happens in Vegas (2008), It's Complicated (2009), No Strings Attached (2011) Million Dollar Arm (2014), Man Up (2015), No Escape and The Secret Life of Pets (2016).
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    She wrote and directed the short film Worst Enemy, which debuted at the Sundance Film Festival in 2012, followed by her 2013 feature film directing debut In a World..., in which she also starred.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Bell was born in New York City. Her mother, Robin Bell, owns the design firm Robin Bell Design in New York.[3][4] Her father is real estate developer Harvey Siegel, who bought the then-closed Virginia International Raceway and converted it into a racetrack country club, and who owned New Jersey Motorsports Park.[5]
+
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Bell's father is Jewish and her mother is Protestant. Bell has stated that she was raised in a "comically dysfunctional" family.[6][7]
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Bell attended The Chapin School in New York and Westminster School in Simsbury, Connecticut. For part of her teenage years she lived in Vero Beach, Florida and 
+    
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    attended Saint Edwards School.[8] She attended Skidmore College in Saratoga Springs, New York, before transferring to Rose Bruford College in London.[9][10] There she acted in theatrical productions including The Seagull, The Children's Hour, Six Degrees of Separation, Light Shining in Buckinghamshire and The Pentecost.[11]
+
+
